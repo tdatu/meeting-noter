@@ -1,6 +1,9 @@
 # meeting-noter
 small python script to convert audio to text with timestamp
 
+![alt recording](https://raw.githubusercontent.com/tdatu/meeting-noter/master/img/recording.gif)
+
+
 ## Requirements
 1. Python 3 or 2
 2. Pyaudio
