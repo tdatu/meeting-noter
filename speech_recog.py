@@ -3,7 +3,7 @@ import speech_recognition as sr
 from datetime import datetime
 
 r = sr.Recognizer()
-fs = open("converted_audio.text","w+")
+fs = open("converted_audio.txt","w+")
 
 with sr.Microphone() as source:
 	print("Audio conversion now:")
