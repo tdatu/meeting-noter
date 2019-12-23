@@ -1,5 +1,5 @@
 # meeting-noter
-small python script to convert audio to text with timestamp
+a small python script to convert dictated audio from microphone to text with timestamp.
 
 ![alt recording](https://raw.githubusercontent.com/tdatu/meeting-noter/master/img/recording.gif)
 
@@ -11,7 +11,7 @@ small python script to convert audio to text with timestamp
 
 ## Notes
 Execute the script using: `python3 speech_recog.py`. 
-Once done, use "stop recording" to stop the script. 
+Once done, dictate "stop recording" to stop the script. 
 The converted text is saved in converted_audio.txt
  
  
